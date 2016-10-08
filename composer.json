@@ -1,6 +1,7 @@
 {
 	"description": "The CodeIgniter framework v4",
 	"name": "codeigniter/framework",
+	"version": "4.0.0",
 	"type": "project",
 	"homepage": "https://codeigniter.com",
 	"license": "MIT",
